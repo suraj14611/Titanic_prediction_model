@@ -119,19 +119,6 @@ These features are used to predict passenger survival.
 
 ---
 
-## 📸 Preview
-
-You can add screenshots of the web application here.
-
-Example:
-
-```
-Home Page Screenshot
-Prediction Result Screenshot
-```
-
----
-
 ## 🎯 Future Improvements
 
 - Improve prediction accuracy
@@ -142,11 +129,6 @@ Prediction Result Screenshot
 
 ---
 
-## 👨‍💻 Author
 
-**Sai Suraj**
-
-GitHub:
-https://github.com/suraj14611
 
 ---
